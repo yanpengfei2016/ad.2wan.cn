@@ -12,7 +12,7 @@ use AlibabaCloud\Client\Exception\ServerException;
 // Download：https://github.com/aliyun/openapi-sdk-php
 // Usage：https://github.com/aliyun/openapi-sdk-php/blob/master/README.md
 
-AlibabaCloud::accessKeyClient('LTAI4FuLN32GbKsFqjXYG5fK', 'kN3HGxzn1k4Hg1w3JNY6mrKtr4dcsM')
+AlibabaCloud::accessKeyClient('*********', '************')
     ->regionId('cn-hangzhou')
     ->asDefaultClient();
 
